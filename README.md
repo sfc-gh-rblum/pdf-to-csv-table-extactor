@@ -14,7 +14,7 @@ install the following Packages (versions the script was developed on)
 * python 3.6 
 * tesseract-ocr 4.0.0
 * opencv 3.4.4
-* pip requirements.txt
+* pip requirements.txt (pip install --upgrade -r requirements.txt)
 
 usage:
 ```
